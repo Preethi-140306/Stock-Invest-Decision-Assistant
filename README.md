@@ -64,44 +64,39 @@ ELSE
 ## 📁 Project Structure
 
 stock_prediction/
-│
-├── app.py # Streamlit frontend
-├── model_utils.py # ML model & prediction logic
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+
+- app.py # Streamlit frontend
+- model_utils.py # ML model & prediction logic
+- requirements.txt # Project dependencies
+- README.md # Project documentation
 
 ---
 ## ⚙️ Installation & Setup
 
-### 1️. Clone the Repository
-```bash
-git clone https://github.com/your-username/stock-market-prediction.git
-cd stock-market-prediction
+1️. Clone the Repository
+- git clone https://github.com/your-username/stock-market-prediction.git
+- cd stock-market-prediction
 
-### 2. Install Dependencies
-bash
-pip install -r requirements.txt
+2. Install Dependencies
+ - pip install -r requirements.txt
 
-### 3. Run the Application
-bash
-streamlit run app.py
+3. Run the Application
+  - streamlit run app.py
 
-### 4.Open in browser:
-http://localhost:8501
+4.Open in browser:
+  - http://localhost:8501
 
-📌 Requirements
-Python 3.9+
-Internet connection
-At least 2 years of historical stock data recommended for best results
+---
 
-⚠️ Disclaimer
-This project is for educational purposes only and not financial advice.
-Stock market investments involve risk.
+## 📌Requirements
+- Python 3.9+
+- Internet connection
+- At least 2 years of historical stock data recommended for best results
 
-
-### Author
-Preethi
-Machine Learning & Data Science Enthusiast
+---
+## Author
+  Preethi
+- Machine Learning & Data Science Enthusiast
 
 
 
