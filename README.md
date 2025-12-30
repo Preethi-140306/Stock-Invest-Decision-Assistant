@@ -87,6 +87,16 @@ stock_prediction/
   - http://localhost:8501
 
 ---
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](Screenshots/Dashboard.png)
+
+### Prediction Result
+![Prediction](Screenshots/Prediction.png)
+
+### Decision Assistant
+![Decision Assistant](Screenshots/Decision%20Assistant.png)
 
 ## 📌Requirements
 - Python 3.9+
